@@ -20,3 +20,8 @@ Allez, c’est parti.
 
 Allons créer votre premier **“Hello Cube”**.
 
+Example: 
+[<img width="480" height="725" alt="image" src="https://github.com/user-attachments/assets/60736083-f7b7-4452-b3e2-d67d8200bcf5" />](https://youtu.be/BWHUlZuLHxo?t=26)  
+https://youtu.be/BWHUlZuLHxo?t=26   
+
+
